@@ -105,22 +105,20 @@ URL: `https://www.geeksforgeeks.org/turing-machine-in-toc/`
 ### Output:  
 | Word       | Frequency |  
 |------------|-----------|  
-| turing     | 20        |  
-| machine    | 15        |  
-| toc        | 10        |  
+| search     | 82        |  
+| elementor  | 61        |  
+| true       | 40        |  
+| ai         | 37        |  
+| image      | 35        |  
+| a          | 31        |  
+| expertrec  | 30        |  
+| box        | 28        |  
+| var        | 25        |  
+| and        | 24        |  
 
 ---
 
-## Future Improvements  
 
-- Enhance word processing by excluding common stop words (e.g., "the", "and").  
-- Provide an option to analyze specific HTML sections (e.g., `<div>`, `<p>`).  
-- Add language detection and multilingual support.  
-
----
-
-
----
 
 
 Feel free to contribute to this project by submitting issues or pull requests. Happy coding! 🎉  
